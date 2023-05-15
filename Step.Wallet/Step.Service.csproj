@@ -1,0 +1,49 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>Step.Wallet</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Controllers\" />
+    <None Remove="Authorization\" />
+    <None Remove="Model\" />
+    <None Remove="Newtonsoft.Json" />
+    <None Remove="Logic\" />
+    <None Remove="Model\Wallet\" />
+    <None Remove="Model\Transaction\" />
+    <None Remove="Model\CountryCurrency\" />
+    <None Remove="Model\Auth\" />
+    <None Remove="Model\PayGate\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Authorization\" />
+    <Folder Include="Model\" />
+    <Folder Include="Logic\" />
+    <Folder Include="Model\Wallet\" />
+    <Folder Include="Model\Transaction\" />
+    <Folder Include="Model\CountryCurrency\" />
+    <Folder Include="Model\Auth\" />
+    <Folder Include="Model\PayGate\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Step.ValueObjects\Step.ValueObjects.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\Step.BusinessServices\Step.BusinessServices.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Properties\launchSettings.json" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+/Users/oluwaseunafolabi/Documents/Development/Step/Wallet/Step.Wallet/obj/Debug/net6.0/Step.Wallet.csproj.AssemblyReference.cache
+/Users/oluwaseunafolabi/Documents/Development/Step/Wallet/Step.Wallet/obj/Debug/net6.0/Step.Wallet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oluwaseunafolabi/Documents/Development/Step/Wallet/Step.Wallet/obj/Debug/net6.0/Step.Wallet.AssemblyInfoInputs.cache
+/Users/oluwaseunafolabi/Documents/Development/Step/Wallet/Step.Wallet/obj/Debug/net6.0/Step.Wallet.AssemblyInfo.cs
+/Users/oluwaseunafolabi/Documents/Development/Step/Wallet/Step.Wallet/obj/Debug/net6.0/Step.Wallet.csproj.CoreCompileInputs.cache
+/Users/oluwaseunafolabi/Documents/Development/Step/Wallet/Step.Wallet/obj/Debug/net6.0/Step.Wallet.MvcApplicationPartsAssemblyInfo.cs
+/Users/oluwaseunafolabi/Documents/Development/Step/Wallet/Step.Wallet/obj/Debug/net6.0/Step.Wallet.MvcApplicationPartsAssemblyInfo.cache

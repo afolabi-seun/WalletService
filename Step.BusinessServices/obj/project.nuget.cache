@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "w6WmQjGgEqpn0kkGUjH9WeaPuj+3F5TXJuc5UKovAkKzO2zl2RWPd89C56LJCSNVeerL9CVnwk4bJw3RUbnKog==",
+  "success": true,
+  "projectFilePath": "/Users/oluwaseunafolabi/Documents/Development/Step/WalletService/Step.BusinessServices/Step.BusinessServices.csproj",
+  "expectedPackageFiles": [
+    "/Users/oluwaseunafolabi/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "/Users/oluwaseunafolabi/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/oluwaseunafolabi/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/oluwaseunafolabi/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/oluwaseunafolabi/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/oluwaseunafolabi/.nuget/packages/npgsql/7.0.2/npgsql.7.0.2.nupkg.sha512",
+    "/Users/oluwaseunafolabi/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

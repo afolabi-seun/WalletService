@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Npgsql" />
+    <None Remove="db scripts\" />
+    <None Remove="Newtonsoft.Json" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Npgsql" Version="7.0.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Step.Utils\Step.Utils.csproj" />
+    <ProjectReference Include="..\Step.ValueObjects\Step.ValueObjects.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="db scripts\" />
+  </ItemGroup>
+</Project>

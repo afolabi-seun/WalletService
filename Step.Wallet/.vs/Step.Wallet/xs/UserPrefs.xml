@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{FC618EA3-F66F-4A4B-ACA2-C9462A1CB9C8}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/oluwaseunafolabi/Documents/Development/Step/WalletService/Step.DataAccessObjects/WalletDAO.cs" line="23" column="1" />
+      <Breakpoint file="/Users/oluwaseunafolabi/Documents/Development/Step/WalletService/Step.Wallet/Controllers/WalletController.cs" relfile="Controllers/WalletController.cs" line="37" column="1" />
+      <Breakpoint file="/Users/oluwaseunafolabi/Documents/Development/Step/WalletService/Step.Wallet/Controllers/TransactionController.cs" relfile="Controllers/TransactionController.cs" line="43" column="1" />
+      <Breakpoint file="/Users/oluwaseunafolabi/Documents/Development/Step/WalletService/Step.Wallet/Controllers/TransactionController.cs" relfile="Controllers/TransactionController.cs" line="50" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Step.DataAccessObjects/TransactionDAO.cs">
+    <Files>
+      <File FileName="Controllers/TransactionController.cs" />
+      <File FileName="appsettings.json" />
+      <File FileName="Program.cs" />
+      <File FileName="../Step.BusinessServices/ConfigService.cs" Line="54" Column="41" />
+      <File FileName="../Step.DataAccessObjects/TransactionDAO.cs" Line="144" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Step.Wallet" expanded="True">
+            <Node name="Step.BusinessServices" expanded="True" />
+            <Node name="Step.DataAccessObjects" expanded="True">
+              <Node name="TransactionDAO.cs" selected="True" />
+            </Node>
+            <Node name="Step.Service" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Step.Service PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
